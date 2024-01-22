@@ -6,7 +6,7 @@
 */.settings/
 
 # Ignore the .cproject, .project &.mxproject 
-*/.cproject
+#*/.cproject
 #*/.project
 */.mxproject
 
