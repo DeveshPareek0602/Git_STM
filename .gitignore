@@ -13,3 +13,6 @@ STM32_Project/*.launch
 
 # Ignore .metadata folder
 /.metadata/
+
+#Ignoring the linker script files
+*/*.ld
