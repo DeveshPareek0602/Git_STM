@@ -3,7 +3,7 @@
 */Release/*
 
 # Ignore the .settings file
-.settings/
+*/.settings/
 
 # Ignore the .cproject, .project &.mxproject 
 */.cproject
