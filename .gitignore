@@ -1,0 +1,10 @@
+# Ignore the debug/release folder
+*/Debug/*
+*/Release/*
+
+# Ignore the .settings file
+.settings/
+
+# Ignore the .cproject and .project files
+*/.cproject
+*/.project
