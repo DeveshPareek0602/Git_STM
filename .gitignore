@@ -6,8 +6,8 @@
 */.settings/
 
 # Ignore the .cproject, .project &.mxproject 
-#*/.cproject
-#*/.project
+*/.cproject
+*/.project
 */.mxproject
 
 # Ignore .metadata folder
