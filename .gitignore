@@ -7,7 +7,7 @@
 
 # Ignore the .cproject, .project &.mxproject 
 */.cproject
-*/.project
+#*/.project
 */.mxproject
 STM32_Project/*.launch
 
