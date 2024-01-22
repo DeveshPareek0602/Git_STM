@@ -6,8 +6,6 @@
 */.settings/
 
 # Ignore the .cproject, .project &.mxproject 
-#*/.cproject
-#*/.project
 */.mxproject
 STM32_Project/*.launch
 
@@ -16,6 +14,3 @@ STM32_Project/*.launch
 
 #Ignoring the linker script files
 */*.ld
-
-#Ignoring the drivers folder
-*/Drivers
