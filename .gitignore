@@ -16,3 +16,6 @@ STM32_Project/*.launch
 
 #Ignoring the linker script files
 */*.ld
+
+#Ignoring the drivers folder
+*/Drivers
