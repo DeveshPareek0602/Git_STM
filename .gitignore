@@ -11,3 +11,6 @@ STM32_Project/*.launch
 
 # Ignore .metadata folder
 /.metadata/
+
+#Ignore .ioc file
+*/*.ioc
