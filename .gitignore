@@ -9,6 +9,7 @@
 */.cproject
 */.project
 */.mxproject
+STM32_Project/*.launch
 
 # Ignore .metadata folder
 /.metadata/
