@@ -11,4 +11,4 @@
 */.mxproject
 
 # Ignore .metadata folder
-.metadata/
+/.metadata/
