@@ -22,3 +22,4 @@ STM32_Project/Drivers/CMSIS/Include/*
 !STM32_Project/Drivers/CMSIS/Include/tz_context.h
 !STM32_Project/Drivers/CMSIS/Include/cmsis_version.h
 !STM32_Project/Drivers/CMSIS/Include/cmsis_compiler.h
+!STM32_Project/Drivers/CMSIS/Include/mpu_armv7.h
