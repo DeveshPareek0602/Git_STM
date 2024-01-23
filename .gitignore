@@ -14,3 +14,9 @@ STM32_Project/*.launch
 
 #Ignore .ioc file
 */*.ioc
+
+#Ignore the unnecessary PAL and compiler header files
+STM32_Project/Drivers/CMSIS/Include/*
+!STM32_Project/Drivers/CMSIS/Include/cmsis_gcc.h
+!STM32_Project/Drivers/CMSIS/Include/core_cm4.h
+!STM32_Project/Drivers/CMSIS/Include/tz_context.h
